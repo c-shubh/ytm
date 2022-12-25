@@ -1,0 +1,4 @@
+{
+  "music_dir_path": "/home/shubh/tmp/Music",
+  "mpv_args": ["--no-video", "--loop=inf"]
+}
